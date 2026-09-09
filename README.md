@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="yasa zaheen" width="100%" />
+  <img src="banner.svg" alt="yasa zaheen" width="100%" />
 </p>
 
 # hey, i'm yasa zaheen
