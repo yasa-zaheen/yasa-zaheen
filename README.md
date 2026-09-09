@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="yasa zaheen" width="100%" />
+</p>
+
 # hey, i'm yasa zaheen
 
 cs @ usf · lead swe at a stealth startup · tampa, fl
